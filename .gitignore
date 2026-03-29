@@ -1,0 +1,12 @@
+# Node
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+myenv/
+
+# Env files
+.env
